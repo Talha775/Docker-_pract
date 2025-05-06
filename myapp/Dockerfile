@@ -1,2 +1,2 @@
 FROM alpine
-CMD ["echo", "Hello from mariyaApps!"]
+CMD ["echo", "Hello from Apps!"]
